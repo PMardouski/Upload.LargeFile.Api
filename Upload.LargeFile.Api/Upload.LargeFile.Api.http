@@ -1,0 +1,6 @@
+@Upload.LargeFile.Api_HostAddress = http://localhost:5241
+
+GET {{Upload.LargeFile.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
